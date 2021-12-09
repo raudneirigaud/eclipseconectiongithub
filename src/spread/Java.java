@@ -6,6 +6,7 @@ public class Java {
 		
 		System.out.println("Teste integração Eclipse com Github");
 		System.out.println("Teste integração Eclipse com Github - teste");
+		System.out.println("Teste integração Eclipse com Github - teste");
 	}
 
 }
